@@ -1,2 +1,2 @@
 # data_science_project
-this is a first project as a data scientist 
+this is my first project as a data scientist 
